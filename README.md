@@ -5,7 +5,6 @@
 Aspiring Web Developer and Cybersecurity Curriculum Assistant with hands-on experience building real-world websites and digital learning resources. I specialize in creating clean, responsive interfaces and translating complex technical ideas into beginner-friendly content.
 
 🌏 Philippines
-💻 Portfolio: https://ernestie09.github.io
 
 📫 Email: johnernestimanansala@gmail.com
 
@@ -35,7 +34,7 @@ Cybersecurity Learning Tools
 
 1) With Sandra — Cybersecurity Education Website
 Role: Frontend Developer (Intern Project)
-Live: https://ernestie09.github.io/with_sandra
+Live: https://ErNestie09.github.io/with_sandra
 
 Repo: https://github.com/ErNestie09/with_sandra
 
@@ -44,7 +43,7 @@ Tech: HTML, CSS, JS
 
 2) Batangas Tourism Website
 Role: Frontend Developer
-Live: https://ernestie09.github.io/batangas_tourism
+Live: https://ErNestie09.github.io/batangas_tourism
 
 Repo: https://github.com/ErNestie09/batangas_tourism
 

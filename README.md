@@ -30,25 +30,6 @@ Security Awareness
 Threat & Risk Concepts
 Cybersecurity Learning Tools
 
-📂 Featured Projects
-
-1) With Sandra — Cybersecurity Education Website
-Role: Frontend Developer (Intern Project)
-Live: https://ErNestie09.github.io/with_sandra
-
-Repo: https://github.com/ErNestie09/with_sandra
-
-A modern landing website for a cybersecurity education brand. Includes responsive layout, content sections, partner showcase, and contact CTA.
-Tech: HTML, CSS, JS
-
-2) Batangas Tourism Website
-Role: Frontend Developer
-Live: https://ErNestie09.github.io/batangas_tourism
-
-Repo: https://github.com/ErNestie09/batangas_tourism
-
-A tourism website highlighting destinations, culture, and local attractions.
-Tech: HTML, CSS, JS
 
 🎯 Career Focus
 

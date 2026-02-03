@@ -39,7 +39,7 @@ Web Development
 
 Technical / Curriculum Writing
 
-Entry-Level Cybersecurity (GRC & Awareness)
+Entry-Level Cybersecurity 
 
 I’m open to freelance, internship, and junior roles.
 
@@ -47,13 +47,13 @@ I’m open to freelance, internship, and junior roles.
 
 If you’re looking for someone who:
 
-learns fast
+Learns Fast
 
-communicates clearly
+Communicates Clearly
 
-builds with care
+Builds with Care
 
-I’d love to collaborate.
+I’d love to Collaborate.
 
 📩 Email: johnernestimanansala@gmail.com
 

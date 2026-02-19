@@ -370,8 +370,21 @@ section {
 .partners-cta {
   padding: 100px 8%;
   background: var(--bg-secondary);
-  text-align: center;
+  text-align: left;
 }
+
+.partners-cta h2 {
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+}
+
+.partners-cta p {
+  max-width: 640px;
+  margin: 0 auto 40px;
+  text-align: center;
+  color: var(--text-muted);
+}
+
 
 .partner-logos div {
   background: var(--bg-card);
@@ -505,7 +518,7 @@ body.scrolled .nav {
 
 .partner-logos {
   display: grid;
-  grid-template-columns: repeat(3, minmax(220px, 260px));
+  grid-template-columns: repeat(4, minmax(220px, 260px));
   gap: 28px;
   justify-content: center;
   margin: 60px 0 50px;

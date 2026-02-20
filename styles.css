@@ -202,6 +202,13 @@ section {
   margin-bottom: 26px;
 }
 
+.statement,
+.bio {
+  text-align: justify;
+  max-width: 600px;
+  line-height: 1.7;
+}
+
 .stats {
   display: flex;
   gap: 34px;
@@ -232,7 +239,7 @@ section {
    PROJECTS / FEATURED
 ===================== */
 .featured {
-  padding: 100px 8%;
+  padding: 60px 8% 90px;
 }
 
 .featured h2 {
@@ -368,7 +375,7 @@ section {
    SERVICES / PARTNERS
 ===================== */
 .partners-cta {
-  padding: 100px 8%;
+  padding: 60px 8% 40px;
   background: var(--bg-secondary);
   text-align: left;
 }
@@ -763,3 +770,4 @@ body.scrolled .nav {
     gap: 20px;
   }
 }
+
